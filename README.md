@@ -15,4 +15,4 @@ Boton.TouchUp: When you stop touching the button in the app, a new window opens,
 
 ParkingSpot.Initialize: Receives the name of a determined area, obtained from the Boton.TouchUp method, then it displays it on screen.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![MobileAppDiagram](MobileAppDiagram.png)
