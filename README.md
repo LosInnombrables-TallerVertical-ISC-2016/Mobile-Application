@@ -1,5 +1,11 @@
 ![Slogan](Slogan.png)
 # Mobile-Application
+The application was created with app inventor, that's why we don't have an actual source code, we have an image that shows our blocks code, which is here.
+
+![Blocks](Blocks code.jpg)
+
+Here is a link to app inventor: http://ai2.appinventor.mit.edu/#5663367649296384
+
 Repository for the Mobile App that will comunicate with the system.
 
 This is the app that the users will be interacting with, it helps them see which parking areas have free spaces and which of them don't. The users will be able to book a parking spot inside the parking lot, scpecifically in an area of the parking lot.
