@@ -2,7 +2,7 @@
 # Mobile-Application
 The application was created with app inventor, that's why we don't have an actual source code, we have an image that shows our blocks code, which is here.
 
-![Blocks](Blocks code.jpg)
+![Blocks](BlocksCode.jpg)
 
 Here is a link to app inventor: http://ai2.appinventor.mit.edu/#5663367649296384
 
